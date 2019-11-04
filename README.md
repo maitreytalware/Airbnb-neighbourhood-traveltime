@@ -9,5 +9,6 @@ To build an intelligent system which:-
 # 2. Motivation:  
 Majority of times tourist is unaware of the city's neighborhood he/she is traveling to, it is hard for them to select an excellent location which is most convenient for their travel plan. The main aim of this project is to do the heavy lifting for them.
 
-Plot - Comparing neighbourhoods with respect to average price of airbnb
+### Plot - Comparing neighbourhoods with respect to average price of airbnb
+
 <img src="map.png">
