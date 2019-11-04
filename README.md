@@ -1,7 +1,9 @@
 # Airbnb-neighbourhood-traveltime
 # 1. Problem:
 To build an intelligent system which:-
+
 1.1 Helps tourists select appropriate Airbnb by considering price, neighborhood safety, distance to famous tourist spots or nearest subway station
+
 1.2 Helps investor predict which location is best to open an Airbnb for maximum profit  
 
 # 2. Motivation:  
